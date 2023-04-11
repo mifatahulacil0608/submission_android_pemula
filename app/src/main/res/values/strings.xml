@@ -1,0 +1,89 @@
+<resources>
+    <string name="app_name">My_Submission</string>
+    <string name="heroes_name">Nama Pahlawan</string>
+    <string name="description">Deskripsi</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="profile_name">Profile Name</string>
+    <string name="profile_email">Profile Email</string>
+    <string-array name="data_name">
+        <item>Thor : Love and Thunder</item>
+        <item>Black Panther</item>
+        <item>Doctor Strange in the Multiverse of Madness</item>
+        <item>Eternals</item>
+        <item>Avengers : End Game</item>
+        <item>Spiderman no way home</item>
+        <item>Guardians of the Galaxy vol 2</item>
+        <item>Avengers : Age Of Ultron</item>
+        <item>DeadPool 2</item>
+        <item>LOGAN</item>
+    </string-array>
+
+    <string-array name="genre">
+        <item>Genre : Action, Romance</item>
+        <item>Genre : Action</item>
+        <item>Genre : Action, Fiction</item>
+        <item>Genre : Action, Romance</item>
+        <item>Genre : Action, Fiction</item>
+        <item>Genre : Action, Fiction</item>
+        <item>Genre : Action, Fiction</item>
+        <item>Genre : Action, Fiction</item>
+        <item>Genre : Action, Fiction</item>
+        <item>Genre : Action, Fiction</item>
+
+
+    </string-array>
+
+    <string-array name="cast">
+        <item>Cast : Chris Hemsworth, Natalie Portman </item>
+        <item>Cast : Letitia Wright, Lupita Nyongo, Danai Gurira </item>
+        <item>Cast : Benedict Cumberbatch, Elizabeth Olsen, Benedict Wong</item>
+        <item>Cast : Angelina Jolie, Gemma Chan, Richard Madden</item>
+        <item>Cast : Robert downey jr, Chris Hemsworth</item>
+        <item>Cast : Tom Holland, Zendaya, Jacob Batalon</item>
+        <item>Cast : Peter Quil, Nebula</item>
+        <item>Cast : Robert downey jr, Chris Hemsworth</item>
+        <item>Cast : Ryan Reynolds, Josh Brolin, Morena Baccarin</item>
+        <item>Cast : Hugh Jackman, Patrick Stewart, Richard E.</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Thor: Love and Thunder menceritakan Thor (Chris Hemsworth) dalam sebuah perjalanan yang belum pernah ia jalani – pencariankedamaian batin. Namun, masa pensiunnya terganggu oleh seorang pembunuh galaksi yang dikenal sebagai Gorr sang Dewa Jagal (Christian Bale), yang ingin memusnahkan para dewa. Untuk mengatasi ancaman, Thor meminta bantuan Raja Valkyrie (Tessa Thompson), Korg (Taika Waititi), dan mantan kekasihnya Jane Foster (Natalie Portman), yang secara mengejutkan dan misterius berhasil menggunakan palu ajaibnya, Mjolnir, sebagai Mighty Thor. Bersama, mereka memulai petualangan kosmik yang mendebarkan untuk mengungkap misteri pembalasan Dewa Jagal dan menghentikannya sebelum terlambat.</item>
+        <item>Dalam Marvel Studios Black Panther: Wakanda Forever, Ratu Ramonda (Angela Bassett), Shuri (Letitia Wright), MBaku (Winston Duke), Okoye (Danai Gurira) dan Dora Milaje (termasuk Florence Kasumba), berjuang untuk melindungi bangsa mereka dari campur tangan kekuatan dunia setelah kematian Raja TChalla. Ketika bangsa Wakanda berusaha untuk memulai lembar baru kehidupan mereka, para pahlawan harus bersatu dengan bantuan War Dog Nakia (Lupita Nyongo) dan Everett Ross (Martin Freeman) dalam menempa jalan baru untuk kerajaan Wakanda.</item>
+        <item>Dalam Marvel Studios Doctor Strange in the Multiverse of Madness, MCU membuka Multiverse serta mendorong batas-batas yang lebih jauh lagi dari sebelumnya. Perjalananke tempat yang tidak diketahui bersama Doctor Strange, dengan bantuan sekutu mistis baik lama maupun baru, melintasi realitas alternatif Multiverse yang membingungkan dan berbahaya untuk menghadapi musuh baru yang misterius.</item>
+        <item>Marvel Studios Eternals menghadirkan tim Pahlawan Super baru yang menarik di Marvel Cinematic Universe, alien kuno yang telah hidup di Bumi secara rahasia selama ribuan tahun. Menyusul peristiwa Avengers: Endgame, sebuah tragedi tak terduga memaksa mereka keluar dari bayang-bayang untuk bersatu kembali melawan musuh paling kuno umat manusia, Deviant.</item>
+        <item>Peristiwa mengerikan yang digerakkan oleh Thanos yang memusnahkan separuh alam semesta dan mematahkan barisan Avengers memaksa Avengers yang tersisa untuk mengambil satu posisi terakhir dalam kesimpulan besar Marvel Studios untuk dua puluh dua film, "Avengers: Endgame.</item>
+        <item>mengisahkan dilema yang dirasakan Peter Parker (Tom Holland) setelah ia difitnah dan identitasnya dibongkar oleh Mysterio (Jake Gyllenhaal) sebelum tewas dalam pertarungan di London.</item>
+        <item>Diatur ke latar belakang Awesome Mixtape #2, Marvels Guardians of the Galaxy Vol. 2 melanjutkan petualangan tim saat mereka melintasi jangkauan luar kosmos. The Guardians harus berjuang untuk menjaga keluarga baru mereka tetap bersama saat mereka mengungkap misteri asal usul Peter Quill yang sebenarnya. Musuh lama menjadi sekutu baru dan karakter favorit penggemar dari komik klasik akan membantu pahlawan kita saat dunia sinematik Marvel terus berkembang.</item>
+        <item>Marvel Studios menghadirkan "Avengers: Age of Ultron", tindak lanjut epik dari film Pahlawan Super terbesar sepanjang masa. Ketika Tony Stark mencoba untuk memulai program penjaga perdamaian yang tidak aktif, segalanya menjadi serba salah dan Pahlawan Terkuat di Bumi, termasuk Iron Man, Captain America, Thor, The Incredible Hulk, Black Widow dan Hawkeye, menghadapi ujian terakhir saat nasib planet ini tergantung. dalam keseimbangan. Saat Ultron yang jahat muncul, terserah kepada Avengers untuk menghentikannya menjalankan rencananya yang mengerikan, dan segera aliansi yang tidak nyaman dan tindakan tak terduga membuka jalan bagi petualangan global yang epik dan unik.</item>
+        <item>Setelah selamat dari serangan sapi yang hampir fatal, seorang koki kafetaria yang cacat (Wade Wilson) berjuang untuk memenuhi mimpinya menjadi bartender paling terkenal di Mayberry sambil belajar untuk mengatasi indera perasanya yang hilang. Mencari untuk mendapatkan kembali bumbu kehidupannya, serta kapasitor fluks, Wade harus melakukan perjalanan keliling dunia untuk menemukan pentingnya keluarga, persahabatan, dan rasa — menemukan cita rasa baru untuk petualangan dan mendapatkan gelar cangkir kopi yang didambakan sebagai Kekasih Terbaik Dunia .</item>
+        <item>Dalam waktu dekat, Logan yang lelah merawat Profesor X yang sakit di tempat persembunyian di perbatasan Meksiko. Tapi upaya Logan untuk bersembunyi dari dunia dan warisannya berakhir ketika seorang mutan muda tiba, dikejar oleh kekuatan gelap.</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/thor_love_and_thunder</item>
+        <item>@drawable/black_panter</item>
+        <item>@drawable/doctor_strange</item>
+        <item>@drawable/eternals</item>
+        <item>@drawable/avengers_end_game</item>
+        <item>@drawable/spiderman_no_home</item>
+        <item>@drawable/guiardians_of_galaxy</item>
+        <item>@drawable/age_of_ultron</item>
+        <item>@drawable/deapool_2</item>
+        <item>@drawable/logan</item>
+    </integer-array>
+    <!-- <string-array name="data_photo">
+        <item>https://upload.wikimedia.org/wikipedia/commons/8/87/Ahmad_Dahlan.jpg</item>
+        <item>https://www.dropbox.com/s/hi85fxz4f1tuubx/age%20of%20ultron.jpg</item>
+        <item>https://drive.google.com/file/d/1QrLsBEn11CNjs7TJiFxpqi4jkqxlHR-P/view?usp=sharing</item>
+        <item>https://drive.google.com/file/d/1_XCTJvYrECuAd_rilxE2eG5UwAy5R3VZ/view?usp=sharing</item>
+        <item>https://drive.google.com/file/d/1tK57nAFPgtbb8_7YZIxRMa-VzcgMVx9O/view?usp=sharing</item>
+        <item>https://drive.google.com/file/d/12sG14ji5xDcvCn0yCeMBnReJ4eoJOvvE/view?usp=sharing</item>
+        <item>https://drive.google.com/file/d/1MDyDPuqNrKbaeFZYR0dHObTggRZwsBOC/view?usp=sharing</item>
+        <item>https://drive.google.com/file/d/1xQ9J2NpyFXJnxMBCFG1A5_J2Y_WDh6FZ/view?usp=sharing</item>
+        <item>https://drive.google.com/file/d/15IuD5IeXsjSlUso9UQRmFmAA02Y40_g6/view?usp=sharing</item>
+        <item>https://drive.google.com/file/d/1L_YlUYRT2lzIqcRpySjF_DA3nbNR15ak/view?usp=sharing</item>
+    </string-array>-->
+
+
+</resources>
